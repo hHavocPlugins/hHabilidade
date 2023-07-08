@@ -1,0 +1,6 @@
+name: hHabilidade
+version: 1.0.0
+author: Havoc#5222
+main: hHabilidade.Main.Main
+commands:
+  habilidade:

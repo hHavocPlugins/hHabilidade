@@ -1,0 +1,21 @@
+PermComando:
+  Setar: "pex user @player add {perms}"
+  Remover: "pex user @player remove {perms}"
+
+Habilidades:
+  habilidade1:
+    nome: "&7Kit Inicial"
+    lore:
+    - ''
+    - '&7Voce pode desbloquar um kit ao comprar essa habilidade'
+    - '&a| &7Custo: 100k Moedas'
+    - ''
+    id: 397
+    data: 3
+    texture:
+      ativar: true
+      url: "http://textures.minecraft.net/texture/59c81b619a7b55654d35ffe0db6c48d7636b0333f60e04035638a418abd4b24a"
+    custo: 100000
+    permissao:
+    - 'hHabilidade.perm1'
+    slot: 10
